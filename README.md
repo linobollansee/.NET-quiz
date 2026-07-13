@@ -1,1 +1,1 @@
-<https://github.com/linobollansee/.NET-quiz/blob/main/README.md>
+<https://github.com/linobollansee/.NET-quiz/blob/main/QUIZ.md>
